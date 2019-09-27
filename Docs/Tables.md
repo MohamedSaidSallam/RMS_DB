@@ -2,6 +2,8 @@
 
 A description of every table and the purpose of every attribute and its constraints.
 
+![alt text](../Diagram/RMS_Schema.png "RMS Schema Diagram")
+
 ## Table Of Content
 
 - [Tables](#tables)
