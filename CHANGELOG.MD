@@ -15,6 +15,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
   - Ingredient Types
   - Quantity Types
   - Recipe Tags
+- Example Recipe
+  - Iced Mint Lemon Tea
+  - Classic Pancakes
 
 ### Changed
 
